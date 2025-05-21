@@ -33,6 +33,7 @@ main:has(.back-link) {
 
 
 .loader {
+  list-style-type: none;
   width: 48px;
   height: 48px;
   border: 5px solid #FFF;
